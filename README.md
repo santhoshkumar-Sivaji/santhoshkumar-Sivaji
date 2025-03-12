@@ -1,5 +1,3 @@
-Here's your customized GitHub README:
-
 ---
 
 ## **Technical Lead @ IBM | B.Tech, Cloud Modernization | Azure | Microservices | Java | Fullstack** 🚀  
